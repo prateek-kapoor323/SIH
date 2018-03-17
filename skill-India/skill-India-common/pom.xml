@@ -4,8 +4,9 @@
     <groupId>skill-India</groupId>
     <artifactId>skill-India</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <relativePath>..</relativePath>
   </parent>
   <groupId>skill-India-common</groupId>
   <artifactId>skill-India-common</artifactId>
 </project>
+
+
