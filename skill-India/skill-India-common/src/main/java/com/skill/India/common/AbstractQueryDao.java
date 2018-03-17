@@ -1,5 +1,6 @@
 package com.skill.India.common;
 
-public class AbstractQueryDao {
+public abstract class AbstractQueryDao {
+
 
 }

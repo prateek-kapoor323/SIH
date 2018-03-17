@@ -1,5 +1,6 @@
 package com.skill.India.common;
 
-public class AbstractDataSource {
 
+public abstract class AbstractDataSource {
+	
 }

@@ -1,5 +1,9 @@
 package com.skill.India.common;
 
-public class BaseDto {
+import java.io.Serializable;
+public abstract class BaseDto implements Serializable {
+	
 
+
+	
 }
