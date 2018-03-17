@@ -1,2 +1,1 @@
-this is the folder structure for skill india app
-
+add skill india application main class here
